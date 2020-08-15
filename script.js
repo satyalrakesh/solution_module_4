@@ -7,7 +7,7 @@ for (var i in names) {
 
   if (firstLetter == 'j') {
      ;
-     console.log("Bye "+names[i]);
+     console.log("Goodbye "+names[i]);
   } else {
      console.log ("Hello "+names[i]);
   }
